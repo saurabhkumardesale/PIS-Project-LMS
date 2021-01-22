@@ -9,7 +9,7 @@
 
 5.Edit your password in all data base connection code of java files eg. DriverManager.getConnection("jdbc:mysql://localhost:3306/lms?user=root&password=*****&useSSL=false");
 
-4.Add jar file mysql-connector-java-8.0.22.jar in Netbeans> Libraries > Right click> Add Jar. Jar file is provided in Help folder
+4.Add jar file mysql-connector-java-8.0.22.jar in Netbeans> Libraries > Right click> Add Jar. Jar file is provided in project repository which you will download.
  
 5.Run the application by after build and clean.
 
